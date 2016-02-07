@@ -1,0 +1,2 @@
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServerContent\obj\x86\Debug\PongServerContent.contentprojResolveAssemblyReference.cache

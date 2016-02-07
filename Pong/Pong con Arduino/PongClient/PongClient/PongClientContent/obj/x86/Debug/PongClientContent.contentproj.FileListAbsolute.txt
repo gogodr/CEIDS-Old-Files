@@ -1,0 +1,6 @@
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClientContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClientContent\obj\x86\Debug\PongClientContent.contentprojResolveAssemblyReference.cache
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClientContent\obj\x86\Debug\PongClientContent.contentprojResolveAssemblyReference.cache
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClientContent\obj\x86\Debug\PongClientContent.contentprojResolveAssemblyReference.cache
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClientContent\obj\x86\Debug\PongClientContent.contentprojResolveAssemblyReference.cache
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClientContent\obj\x86\Debug\PongClientContent.contentprojResolveAssemblyReference.cache

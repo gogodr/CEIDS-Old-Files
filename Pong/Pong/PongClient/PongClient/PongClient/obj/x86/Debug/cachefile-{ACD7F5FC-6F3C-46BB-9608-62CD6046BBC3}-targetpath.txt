@@ -1,0 +1,2 @@
+Content\Sprites\cursor.xnb
+Content\Sprites\bumper.xnb

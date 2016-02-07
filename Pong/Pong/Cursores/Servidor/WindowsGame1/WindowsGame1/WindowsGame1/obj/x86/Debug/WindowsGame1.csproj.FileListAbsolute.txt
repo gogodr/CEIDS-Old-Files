@@ -1,0 +1,17 @@
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\cursor.xnb
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\ServerClientCEIDS.dll
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\ServerClientCEIDS.pdb
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Documents and Settings\GMs\Desktop\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+D:\GM01\Paquetes Doble lado Funcionando\Servidor\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprites\cursor.xnb
+D:\GM01\Paquetes Doble lado Funcionando\Servidor\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\GM01\Paquetes Doble lado Funcionando\Servidor\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\GM01\Paquetes Doble lado Funcionando\Servidor\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\ServerClientCEIDS.pdb
+D:\GM01\Paquetes Doble lado Funcionando\Servidor\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GM01\Paquetes Doble lado Funcionando\Servidor\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\GM01\Paquetes Doble lado Funcionando\Servidor\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\GM01\Paquetes Doble lado Funcionando\Servidor\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

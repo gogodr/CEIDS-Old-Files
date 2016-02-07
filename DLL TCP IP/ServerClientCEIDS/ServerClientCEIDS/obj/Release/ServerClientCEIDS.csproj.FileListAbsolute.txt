@@ -1,0 +1,10 @@
+C:\Documents and Settings\GMs\Local Settings\Application Data\Temporary Projects\ServerClientCEIDS\bin\Release\ServerClientCEIDS.dll
+C:\Documents and Settings\GMs\Local Settings\Application Data\Temporary Projects\ServerClientCEIDS\bin\Release\ServerClientCEIDS.pdb
+C:\Documents and Settings\GMs\Local Settings\Application Data\Temporary Projects\ServerClientCEIDS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\GMs\Local Settings\Application Data\Temporary Projects\ServerClientCEIDS\obj\Release\ServerClientCEIDS.dll
+C:\Documents and Settings\GMs\Local Settings\Application Data\Temporary Projects\ServerClientCEIDS\obj\Release\ServerClientCEIDS.pdb
+C:\Documents and Settings\GMs\my documents\visual studio 2010\Projects\ServerClientCEIDS\ServerClientCEIDS\bin\Release\ServerClientCEIDS.dll
+C:\Documents and Settings\GMs\my documents\visual studio 2010\Projects\ServerClientCEIDS\ServerClientCEIDS\bin\Release\ServerClientCEIDS.pdb
+C:\Documents and Settings\GMs\my documents\visual studio 2010\Projects\ServerClientCEIDS\ServerClientCEIDS\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\GMs\my documents\visual studio 2010\Projects\ServerClientCEIDS\ServerClientCEIDS\obj\Release\ServerClientCEIDS.dll
+C:\Documents and Settings\GMs\my documents\visual studio 2010\Projects\ServerClientCEIDS\ServerClientCEIDS\obj\Release\ServerClientCEIDS.pdb

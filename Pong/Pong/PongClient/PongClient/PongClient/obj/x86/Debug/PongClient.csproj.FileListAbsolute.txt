@@ -1,0 +1,9 @@
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.exe
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.pdb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\ServerClientCEIDS.dll
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.exe
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.pdb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\cursor.xnb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bumper.xnb

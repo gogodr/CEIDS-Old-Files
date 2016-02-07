@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es">
+   <title>Indice</title>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <link rel="stylesheet" type="text/css" href="css/estilo.css">
+	  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+      <script src="js/cursos.js"></script>
+	  <script src="js/JQuery History.min.js"></script>
+	  <script src="js/profesoresjson.js"></script>
+      
+   </head>
+   <body id="body" >
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+           var js, fjs = d.getElementsByTagName(s)[0];
+           if (d.getElementById(id)) return;
+           js = d.createElement(s); js.id = id;
+           js.src = "http://connect.facebook.net/es_LA/all.js#xfbml=1&appId=280508685366575";
+           fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));
+      </script>
+      <!-- Inicio --> 
+      <div id="inicio" class="inicio">
+         <div id="wrap">
+            <section id="logo">
+               <img  src="images/logo.png">
+            </section>
+            <section id = "botones">
+               <img id = "btnprofe" src="./images/profesores.png"></img>
+               <p>
+                  <img id = "btncurso" src="./images/cursos.png"></img>
+            </section>
+         </div>
+      </div>
+      <!-- Profesores --> 
+      <div id="profesoresCuadro" class="profesoresCuadro-inicio esconder">
+         <div id="profesoresScroll">
+            <div id="buscador">
+               <input id="type-me" type="text" />
+            </div>
+            <section id="profimagenes" class="filter-me">
+            </section>
+         </div>
+      </div>
+      <!-- Horarios !--> 
+      <div id="HoriarioWrap" class="HoriarioWrap-inicio esconder">
+         <div id="containerHorario">
+            <div id="header">
+               <div class="hora"> </div>
+               <div id="lh" class="head left">L</div>
+               <div id="mh" class="head middle">M</div>
+               <div id="xh" class="head middle">M</div>
+               <div id="jh" class="head middle">J</div>
+               <div id="vh" class="head middle">V</div>
+               <div id="sh" class="head rigth">S</div>
+            </div>
+            <div id="h7" class="row">
+               <div  class="hora">7 am</div>
+               <div id="l7" class="cell-i">&nbsp</div>
+               <div id="m7" class="cell">&nbsp</div>
+               <div id="x7" class="cell">&nbsp</div>
+               <div id="j7" class="cell">&nbsp</div>
+               <div id="v7" class="cell">&nbsp</div>
+               <div id="s7" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h8" class="row">
+               <div  class="hora">8 am</div>
+               <div id="l8" class="cell-i">&nbsp</div>
+               <div id="m8" class="cell">&nbsp</div>
+               <div id="x8" class="cell">&nbsp</div>
+               <div id="j8" class="cell">&nbsp</div>
+               <div id="v8" class="cell">&nbsp</div>
+               <div id="s8" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h9" class="row">
+               <div class="hora">9 am</div>
+               <div id="l9" class="cell-i">&nbsp</div>
+               <div id="m9" class="cell">&nbsp</div>
+               <div id="x9" class="cell">&nbsp</div>
+               <div id="j9" class="cell">&nbsp</div>
+               <div id="v9" class="cell">&nbsp</div>
+               <div id="s9" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h10" class="row">
+               <div  class="hora">10 am</div>
+               <div id="l10" class="cell-i">&nbsp</div>
+               <div id="m10" class="cell">&nbsp</div>
+               <div id="x10" class="cell">&nbsp</div>
+               <div id="j10" class="cell">&nbsp</div>
+               <div id="v10" class="cell">&nbsp</div>
+               <div id="s10" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h11" class="row">
+               <div  class="hora">11 am</div>
+               <div id="l11" class="cell-i">&nbsp</div>
+               <div id="m11" class="cell">&nbsp</div>
+               <div id="x11" class="cell">&nbsp</div>
+               <div id="j11" class="cell">&nbsp</div>
+               <div id="v11" class="cell">&nbsp</div>
+               <div id="s11" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h12" class="row">
+               <div  class="hora">12 pm</div>
+               <div id="l12" class="cell-i">&nbsp</div>
+               <div id="m12" class="cell">&nbsp</div>
+               <div id="x12" class="cell">&nbsp</div>
+               <div id="j12" class="cell">&nbsp</div>
+               <div id="v12" class="cell">&nbsp</div>
+               <div id="s12" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h13" class="row">
+               <div class="hora">1 pm</div>
+               <div id="l13" class="cell-i">&nbsp</div>
+               <div id="m13" class="cell">&nbsp</div>
+               <div id="x13" class="cell">&nbsp</div>
+               <div id="j13" class="cell">&nbsp</div>
+               <div id="v13" class="cell">&nbsp</div>
+               <div id="s13" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h14" class="row">
+               <div  class="hora">2 pm</div>
+               <div id="l14" class="cell-i">&nbsp</div>
+               <div id="m14" class="cell">&nbsp</div>
+               <div id="x14" class="cell">&nbsp</div>
+               <div id="j14" class="cell">&nbsp</div>
+               <div id="v14" class="cell">&nbsp</div>
+               <div id="s14" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h15" class="row">
+               <div  class="hora">3 pm</div>
+               <div id="l15" class="cell-i">&nbsp</div>
+               <div id="m15" class="cell">&nbsp</div>
+               <div id="x15" class="cell">&nbsp</div>
+               <div id="j15" class="cell">&nbsp</div>
+               <div id="v15" class="cell">&nbsp</div>
+               <div id="s15" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h16" class="row">
+               <div  class="hora">4 pm</div>
+               <div id="l16" class="cell-i">&nbsp</div>
+               <div id="m16" class="cell">&nbsp</div>
+               <div id="x16" class="cell">&nbsp</div>
+               <div id="j16" class="cell">&nbsp</div>
+               <div id="v16" class="cell">&nbsp</div>
+               <div id="s16" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h17" class="row">
+               <div  class="hora">5 pm</div>
+               <div id="l17" class="cell-i">&nbsp</div>
+               <div id="m17" class="cell">&nbsp</div>
+               <div id="x17" class="cell">&nbsp</div>
+               <div id="j17" class="cell">&nbsp</div>
+               <div id="v17" class="cell">&nbsp</div>
+               <div id="s17" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h18" class="row">
+               <div  class="hora">6 pm</div>
+               <div id="l18" class="cell-i">&nbsp</div>
+               <div id="m18" class="cell">&nbsp</div>
+               <div id="x18" class="cell">&nbsp</div>
+               <div id="j18" class="cell">&nbsp</div>
+               <div id="v18" class="cell">&nbsp</div>
+               <div id="s18" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h19" class="row">
+               <div  class="hora">7 pm</div>
+               <div id="l19" class="cell-i">&nbsp</div>
+               <div id="m19" class="cell">&nbsp</div>
+               <div id="x19" class="cell">&nbsp</div>
+               <div id="j19" class="cell">&nbsp</div>
+               <div id="v19" class="cell">&nbsp</div>
+               <div id="s19" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h20" class="row">
+               <div class="hora">8 pm</div>
+               <div id="l20" class="cell-i">&nbsp</div>
+               <div id="m20" class="cell">&nbsp</div>
+               <div id="x20" class="cell">&nbsp</div>
+               <div id="j20" class="cell">&nbsp</div>
+               <div id="v20" class="cell">&nbsp</div>
+               <div id="s20" class="cell-r">&nbsp</div>
+            </div>
+            <div id="h21" class="row">
+               <div class="hora">9 pm</div>
+               <div id="l21" class="cell-i">&nbsp</div>
+               <div id="m21" class="cell">&nbsp</div>
+               <div id="x21" class="cell">&nbsp</div>
+               <div id="j21" class="cell">&nbsp</div>
+               <div id="v21" class="cell">&nbsp</div>
+               <div id="s21" class="cell-r">&nbsp</div>
+            </div>
+         </div>
+         
+         <!-- Cursos -->
+      </div>
+      <div id ="CursosWrap" class="CursosWrap-inicio esconder">
+         <header id="BuscadorHeader">
+            <div id="buscadorCurso">
+               <input id="type-meBuscador" type="text" />
+            </div>
+         </header>
+         <br>
+         <br>
+         <br>
+         <section id="cursos_cont">
+            <div id="menu_cursos">
+               <section id="contenedor-cursos" class="ac-container">
+
+               </section>
+            </div>
+            <div id="cursos">
+               <img src="./images/logo.png">
+            </div>
+         </section>
+      </div>
+      </section>
+      <div id="btns">
+      <div  id="return" onclick="history.go(-1);"><img src="images/back.png">Atras</div>
+      <div  id="IndexR" onclick='document.location.href = "";'><img src="images/home.png">Inicio</div>
+      </div>
+      <div id="fblike" >         
+         <div>
+            <a href="http://www.facebook.com/CEIDSFIS" target="new"><img <img class="imagensiwi" src="http://i.imgur.com/IOp0n27.png" style="cursor: pointer;"/></a>
+         </div>
+         <div class="fb-like" data-href="http://www.facebook.com/CEIDSFIS" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false" style="display: block; position: fixed; bottom: 19px; right: 25px;"></div>
+      </div>
+      <script type="text/javascript" src="js/main.js"></script>
+   </body>
+</html>

@@ -1,0 +1,103 @@
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.exe
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.pdb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\ServerClientCEIDS.dll
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.exe
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.pdb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\cursor.xnb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bumper.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\cursor.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bumper.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.exe
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.pdb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\ServerClientCEIDS.dll
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.csprojResolveAssemblyReference.cache
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.exe
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.pdb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit2.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\perder.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\start.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Fonts\Fuente.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\cursor.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bumper.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bg2Left.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bgLeft.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit2.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\perder.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\start.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Fonts\Fuente.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.exe
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.pdb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\ServerClientCEIDS.dll
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.csprojResolveAssemblyReference.cache
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.exe
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.pdb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\cursor.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bumper.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bg2Left.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bgLeft.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit2.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\perder.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\start.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Fonts\Fuente.xnb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\ServerClientCEIDS.dll
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.csprojResolveAssemblyReference.cache
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.exe
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.pdb
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.exe
+\\192.168.52.60\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.pdb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bg2Left.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bgLeft.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.xnb
+C:\Users\gogodr\Desktop\Pong\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.wma
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\cursor.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bumper.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bg2Left.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bgLeft.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bola.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bola2.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit2.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\perder.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\start.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Fonts\Fuente.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.xnb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.wma
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.exe
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.pdb
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\ServerClientCEIDS.dll
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.csprojResolveAssemblyReference.cache
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.exe
+C:\Users\gw\Desktop\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.pdb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\cursor.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bumper.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bg2Left.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bgLeft.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bola.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bola2.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit2.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\perder.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\start.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Fonts\Fuente.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.xnb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.wma
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.exe
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\PongClient.pdb
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\ServerClientCEIDS.dll
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.csprojResolveAssemblyReference.cache
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.exe
+R:\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\PongClient.pdb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bola.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bola2.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.wma

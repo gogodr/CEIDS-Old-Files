@@ -1,0 +1,19 @@
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\bin\x86\Debug\Content\Sprites\cursor.xnb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\bin\x86\Debug\PongServer.exe
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\bin\x86\Debug\PongServer.pdb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\bin\x86\Debug\ServerClientCEIDS.dll
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\bin\x86\Debug\ServerClientCEIDS.pdb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\obj\x86\Debug\PongServer.exe
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\obj\x86\Debug\PongServer.pdb
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\PongServer\PongServer\PongServer\bin\x86\Debug\Content\Sprites\bumper.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\bin\x86\Debug\Content\Sprites\cursor.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\bin\x86\Debug\Content\Sprites\bumper.xnb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\bin\x86\Debug\PongServer.exe
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\bin\x86\Debug\PongServer.pdb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\bin\x86\Debug\ServerClientCEIDS.pdb
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\obj\x86\Debug\PongServer.csprojResolveAssemblyReference.cache
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\obj\x86\Debug\PongServer.exe
+\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong\PongServer\PongServer\PongServer\obj\x86\Debug\PongServer.pdb

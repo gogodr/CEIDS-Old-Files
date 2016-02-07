@@ -1,0 +1,3 @@
+C:\Documents and Settings\GMs\My Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\GMs\Desktop\Cursor con sombra\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Pc01\gm01\Paquetes Doble lado Funcionando\Cliente\Cliente Cursor\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache

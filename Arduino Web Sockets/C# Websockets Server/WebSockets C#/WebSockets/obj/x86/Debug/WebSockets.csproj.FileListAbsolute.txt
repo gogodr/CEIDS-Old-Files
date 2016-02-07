@@ -1,0 +1,11 @@
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\obj\x86\Debug\WebSockets.csprojResolveAssemblyReference.cache
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\obj\x86\Debug\WebSockets.Form1.resources
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\obj\x86\Debug\WebSockets.Properties.Resources.resources
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\obj\x86\Debug\WebSockets.csproj.GenerateResource.Cache
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\bin\Debug\WebSockets.exe.config
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\bin\Debug\WebSockets.exe
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\bin\Debug\WebSockets.pdb
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\bin\Debug\Alchemy.dll
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\obj\x86\Debug\WebSockets.exe
+C:\Users\gonzalo\documents\visual studio 2010\Projects\WebSockets\WebSockets\obj\x86\Debug\WebSockets.pdb

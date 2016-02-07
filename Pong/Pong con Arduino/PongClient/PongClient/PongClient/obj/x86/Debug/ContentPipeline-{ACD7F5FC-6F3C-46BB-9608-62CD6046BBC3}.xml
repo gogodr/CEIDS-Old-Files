@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\cursor.png</Source>
+      <Name>Sprites\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\cursor.xnb</Output>
+      <Time>2013-07-04T19:01:19.540039-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bumper.png</Source>
+      <Name>Sprites\bumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bumper.xnb</Output>
+      <Time>2013-07-04T19:01:19.508789-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bg2Left.png</Source>
+      <Name>Sprites\bg2Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bg2Left.xnb</Output>
+      <Time>2013-10-30T19:29:59.4859462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bgLeft.png</Source>
+      <Name>Sprites\bgLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bgLeft.xnb</Output>
+      <Time>2013-10-30T19:29:59.4899466-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bola.png</Source>
+      <Name>Sprites\bola</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bola.xnb</Output>
+      <Time>2013-10-31T05:51:09.0141063-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bola2.png</Source>
+      <Name>Sprites\bola2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sprites\bola2.xnb</Output>
+      <Time>2013-10-31T05:51:09.0161063-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\hit.wav</Source>
+      <Name>Sounds\hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit.xnb</Output>
+      <Time>2013-10-30T14:34:58.2023224-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\hit2.wav</Source>
+      <Name>Sounds\hit2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\hit2.xnb</Output>
+      <Time>2013-10-30T14:34:58.2033226-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\perder.wav</Source>
+      <Name>Sounds\perder</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\perder.xnb</Output>
+      <Time>2013-10-30T14:34:58.2033226-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\start.wav</Source>
+      <Name>Sounds\start</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\start.xnb</Output>
+      <Time>2013-10-30T14:34:58.2043228-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Fuente.spritefont</Source>
+      <Name>Fonts\Fuente</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Fonts\Fuente.xnb</Output>
+      <Time>2013-10-30T16:52:45.3431426-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\HyperspaceBonusLeft.mp3</Source>
+      <Name>Sounds\HyperspaceBonusLeft</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.xnb</Output>
+      <Extra>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\Sounds\HyperspaceBonusLeft.wma</Extra>
+      <Time>2013-10-30T17:51:07.6713263-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{ACD7F5FC-6F3C-46BB-9608-62CD6046BBC3}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClientContent\</RootDirectory>
+      <LoggerRootDirectory>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\</LoggerRootDirectory>
+      <IntermediateDirectory>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\SERVER-CEIDS\Repositorio Ceids\Juegos\Pong con Arduino\PongClient\PongClient\PongClient\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-28T19:33:54.8368614-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
